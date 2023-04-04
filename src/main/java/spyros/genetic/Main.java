@@ -1,8 +1,8 @@
 package spyros.genetic;
 
-import gr.spyros.genetic.exceptions.GeneticAlgorithmException;
-import gr.spyros.genetic.service.GeneticAlgorithmService;
-import gr.spyros.genetic.utils.NumberUtils;
+import spyros.genetic.exceptions.GeneticAlgorithmException;
+import spyros.genetic.service.GeneticAlgorithmService;
+import spyros.genetic.utils.NumberUtils;
 
 import java.util.ArrayList;
 import java.util.List;
