@@ -1,4 +1,4 @@
-package gr.spyros.genetic.utils;
+package spyros.genetic.utils;
 
 import java.util.Random;
 

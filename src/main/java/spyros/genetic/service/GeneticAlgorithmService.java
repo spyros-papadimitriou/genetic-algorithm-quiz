@@ -1,11 +1,11 @@
-package gr.spyros.genetic.service;
+package spyros.genetic.service;
 
-import gr.spyros.genetic.comparators.ChromosomeComparator;
-import gr.spyros.genetic.exceptions.GeneticAlgorithmException;
-import gr.spyros.genetic.model.Chromosome;
-import gr.spyros.genetic.model.Gene;
-import gr.spyros.genetic.model.Population;
-import gr.spyros.genetic.utils.NumberUtils;
+import spyros.genetic.comparators.ChromosomeComparator;
+import spyros.genetic.exceptions.GeneticAlgorithmException;
+import spyros.genetic.model.Chromosome;
+import spyros.genetic.model.Gene;
+import spyros.genetic.model.Population;
+import spyros.genetic.utils.NumberUtils;
 
 import java.util.*;
 import java.util.stream.Collectors;

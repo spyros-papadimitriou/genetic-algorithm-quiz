@@ -1,6 +1,6 @@
-package gr.spyros.genetic.comparators;
+package spyros.genetic.comparators;
 
-import gr.spyros.genetic.model.Chromosome;
+import spyros.genetic.model.Chromosome;
 
 import java.util.Comparator;
 

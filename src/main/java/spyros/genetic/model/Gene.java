@@ -1,4 +1,4 @@
-package gr.spyros.genetic.model;
+package spyros.genetic.model;
 
 public class Gene {
     private int id;

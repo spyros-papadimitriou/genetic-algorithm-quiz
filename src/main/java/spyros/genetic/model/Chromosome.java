@@ -1,4 +1,4 @@
-package gr.spyros.genetic.model;
+package spyros.genetic.model;
 
 import java.util.ArrayList;
 import java.util.List;
